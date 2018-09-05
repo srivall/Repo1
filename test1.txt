@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is D492-F26F
+
+ Directory of C:\Users\bvall\Desktop\GITProject
+
+09/05/2018  11:08 AM    <DIR>          .
+09/05/2018  11:08 AM    <DIR>          ..
+09/05/2018  11:08 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  106,200,469,504 bytes free
+
+---Change1
